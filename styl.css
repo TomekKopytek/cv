@@ -1,0 +1,46 @@
+body {
+    background-color: #8e44d3;
+    color: white;
+    font-family: sans-serif;
+}
+hr {
+    border-style: none;
+    border-top-style:  dotted;
+    border-color: rgb(235, 198, 240);
+    border-width: 5px;
+    width: 10%;
+    
+}
+h1, h3{
+    color: white;
+}
+ul, a  {
+    font-size: 20px;
+}
+#tabela1{
+   border-spacing: 5px; 
+   border-collapse: collapse; 
+}
+#tabela1 td{
+    padding: 10px;;
+}
+.code {
+    background-color: #9705d6;
+    border: 1px solid rgb(255, 255, 255);
+    float: left;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+#data {
+    clear: both;
+}
+footer {
+    font-size: 12px;
+    text-align: left;
+    color: rgb(224, 132, 236);
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 150px;
+}
